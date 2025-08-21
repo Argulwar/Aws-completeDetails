@@ -1,4 +1,5 @@
 IAM (Identity and access management)
+
 User must be authenticated and authorised.
 Authenticated : he must have access to aws account.
 Authorised :  The user must have access to specific service to perform the required action. 
